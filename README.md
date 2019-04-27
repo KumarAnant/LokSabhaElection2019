@@ -46,4 +46,4 @@ Also present are the barchart showing Positive, Negative and Neutral sentiments 
 
 Disclaimer: 
 1. The result is purely for academic purpose
-2. The result has been obtained by analyzing 10,000 tweets on random basis which contains words LokSabhaElection2019
+2. The result has been obtained by analyzing tweets on random basis which contains words LokSabhaElection2019
