@@ -7,7 +7,7 @@ One of the more through which people express their expectation and reaction are 
 
 This python project is an attempt to analyze twits and other media information to understand the people's expectation changing over time and demographically.
 
-First Analysis
+First Analysis 20190426
 
 The graph below shows most prominent 15 words used in the tweets.
 
@@ -17,6 +17,32 @@ The graph below shows most prominent 15 words used in the tweets.
 The picture below shows the various prominent strong words being used the tweets.
 
 ![](images/1wordcloud.png)
+
+Second Analysis 20190427
+
+On iclusion of more samples with a target of total 30,000 tweet samples, the result seem to be diferent. The workcloud itself is totally differnet and showing strnog positive sentiment compared to the earlier analysis. The wordcloud is presented below
+
+![](images/2wordcloud.png)
+
+Addiitonally, the frequently used words are also showing some new words in the list of top 15 words with BJP coming in the show. However, it is still lagging behind Congress for whatever reasons in the lsit.
+
+New frequent wordlist
+
+![](images/2WordStrength.png)
+
+
+Also present are the barchart showing Positive, Negative and Neutral sentiments in tweets analuzed.
+
+![](images/02PosSent.png)
+
+
+![](images/02NegSent.png)
+
+
+![](images/02NeutralSent.png)
+
+
+
 
 Disclaimer: 
 1. The result is purely for academic purpose
