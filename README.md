@@ -13,9 +13,10 @@ The graph below shows most prominent 15 words used in the tweets.
 
 ![](images/1WordStrength.png)
 
+
 The picture below shows the various prominent strong words being used the tweets.
 
-![](1wordcloud.png)
+![](images/1wordcloud.png)
 
 Disclaimer: 
 1. The result is purely for academic purpose
