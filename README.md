@@ -1,11 +1,11 @@
 # LokSabhaElection2019
 Using NLP to analyze public sentiments on the general election 2019 in India
 
-India the largest democracy is going through basic requirement of being a democracy, i.e. ELection. It is a more than a month long marathon project for a country of population more than 1.3 Billion and more than 900 M people directly franchising their voting rights.
+India the largest democracy is going through the basic requirement of being a democracy, i.e. ELection. It is a more than a month long marathon project for a country of the population more than 1.3 Billion and more than 900 M people directly franchising their voting rights.
 
-Tweets are one of the most used media for common people to express their expectations and emotions. 
+Tweets are one of the most used media for common people to express their expectations and emotions.
 
-This python project is an attempt to analyze the expectations and emotions expressed in tweets and also to understand change in people's expectation over time.
+This python project is an attempt to analyze the expectations and emotions expressed in tweets and also to understand the change in people's expectation over time.
 
 ### First Analysis 20190426
 
