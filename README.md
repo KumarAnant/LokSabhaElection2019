@@ -3,11 +3,11 @@ Using NLP to analyze public sentiments on the general election 2019 in India
 
 India the largest democracy is going through basic requirement of being a democracy, i.e. ELection. It is a more than a month long marathon project for a country of population more than 1.3 Billion and more than 900 M people directly franchising their voting rights.
 
-One of the more through which people express their expectation and reaction are twits. 
+Tweets are one of the most used media for common people to express their expectations and emotions. 
 
-This python project is an attempt to analyze twits and other media information to understand the people's expectation changing over time and demographically.
+This python project is an attempt to analyze the expectations and emotions expressed in tweets and also to understand change in people's expectation over time.
 
-First Analysis 20190426
+### First Analysis 20190426
 
 The graph below shows most prominent 15 words used in the tweets.
 
@@ -18,7 +18,7 @@ The picture below shows the various prominent strong words being used the tweets
 
 ![](images/1wordcloud.png)
 
-Second Analysis 20190427
+### Second Analysis 20190427
 
 On iclusion of more samples with a target of total 30,000 tweet samples, the result seem to be diferent. The workcloud itself is totally differnet and showing strnog positive sentiment compared to the earlier analysis. The wordcloud is presented below
 
